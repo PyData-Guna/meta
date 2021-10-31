@@ -32,3 +32,11 @@ The following behaviour is unacceptable in the community and shall be punished:
 - Verbal or physical harrassment.
 - Breach of privacy of member(s).
 
+## Reporting
+Any event pertaining to violation or potential violation of the code of conduct or any amendments thereof can be reported in any of the following ways:
+- Reporting in-person to any member in the administration team available in the university.
+- Messaging our Instagram handle: [@pydataguna](https://www.instagram.com/pydataguna)
+- Texting/E-mailing any of our core team members on WhatsApp, Telegram, or Discord, who are available within the PyData Guna group/server.
+- If the above options fail to resolve the violation, report to the university discipline committee.
+
+We take the code of conduct very seriously and promise to resolve any violations at the earliest and take suitable action(s) to ensure the safety and comfort of the community members.
